@@ -31,7 +31,7 @@ categorical_pipe=make_pipeline(OneHotEncoder())
 
 preprocessor=make_column_transformer((numerical_pipe, numerical_features),(categorical_pipe, categorical_features))
 
-etc_model=make_pipeline(preprocessor, ExtraTreesClassifier())
+etc_model=make_pipeline(preprocessor, ExtraTreesClassifier(n_estimators=Config.N_ESTIMATOR)) 
 etc_model.fit(X_train, y_train.values.ravel())
 
 

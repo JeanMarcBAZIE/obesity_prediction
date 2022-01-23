@@ -10,7 +10,7 @@ class Config:
 	MODELS_PATH=ASSETS_PATH/"models"               		   # Dossier pour les models
 	FEATURES_PATH=ASSETS_PATH/"features"      		   # Dossier pour les features
 	METRICS_FILE_PATH=ASSETS_PATH/"metrics"                     #Fichiers pour les metrics
-	N_ESTIMATOR=150
+	N_ESTIMATOR=100
     
 
 
