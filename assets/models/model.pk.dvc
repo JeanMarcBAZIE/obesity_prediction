@@ -1,0 +1,4 @@
+outs:
+- md5: 798523b68ab3fa4e9a541e7a8cd881e0
+  size: 14136388
+  path: model.pk
