@@ -1,0 +1,5 @@
+outs:
+- md5: 4e1883527580e2a8c8e98bbcff079997.dir
+  size: 382851
+  nfiles: 2
+  path: data_base
