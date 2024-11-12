@@ -6,12 +6,7 @@ Ce dépôt contient un Notebook Jupyter pour la prédiction des risques d'obési
 
 - [Introduction](#introduction)
 - [Jeu de Données](#jeu-de-données)
-- [Structure du Projet](#structure-du-projet)
 - [Prérequis](#prérequis)
-- [Utilisation](#utilisation)
-- [Résultats](#résultats)
-- [Travail Futur](#travail-futur)
-- [Licence](#licence)
 
 ## Introduction
 
@@ -21,12 +16,6 @@ L'obésité est une condition de santé influencée par plusieurs facteurs liés
 
 Le jeu de données utilisé contient des informations anonymisées sur le style de vie de différents individus, avec des étiquettes indiquant leur catégorie d'IMC. Les variables incluent des informations sur les habitudes alimentaires, le niveau d'activité physique et d'autres facteurs de style de vie.
 
-## Structure du Projet
-
-- `obesity_prediction.ipynb` : Notebook Jupyter contenant le code pour le prétraitement des données, l'entraînement des modèles et l'évaluation des performances.
-- `README.md` : Documentation du projet (ce fichier).
-- `data/` : Dossier destiné à stocker le jeu de données.
-- `models/` : Dossier pour sauvegarder les modèles entraînés pour une utilisation ou une évaluation ultérieure.
 
 ## Prérequis
 
