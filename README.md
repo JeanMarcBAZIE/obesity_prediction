@@ -1,5 +1,3 @@
-# obesity_prediction
-
 # Prédiction de l'Obésité - Machine Learning
 
 Ce dépôt contient un Notebook Jupyter pour la prédiction des risques d'obésité en fonction de différents facteurs de style de vie et d'habitudes alimentaires. Ce projet utilise des techniques d'apprentissage automatique pour analyser les données et prédire les catégories d'indice de masse corporelle (IMC) des individus.
