@@ -4,8 +4,6 @@
 
 Selon l’Organisation mondiale de la santé (OMS), 35 % des adultes dans le monde sont atteints d’obésité ou de surpoids. Cette épidémie touche également les enfants, avec 1 enfant sur 5 en surcharge pondérale. Face à ce problème de santé publique, il est crucial de déterminer et de diagnostiquer les niveaux d’obésité des individus pour mieux les accompagner.
 
-Ce projet s’inscrit dans le cadre du module de déploiement de modèle du Master 1 Fouilles de données et Intelligence Artificielle de l’Université Virtuelle du Burkina Faso. Il vise à développer et déployer un modèle d’apprentissage automatique pour la prédiction des niveaux d’obésité.
-
 ## Objectifs
 
 L’objectif principal est de construire un modèle de classification multiclasses capable de prédire le niveau d’obésité d’un individu en fonction de ses habitudes de vie. Les objectifs spécifiques incluent :
